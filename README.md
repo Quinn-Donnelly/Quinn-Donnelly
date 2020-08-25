@@ -1,6 +1,6 @@
 My name is Quintin Donnelly, I drink coffee while solving problems. Yup that sums up everything I do quite nicely. Feel free to reach out to me to connect, ask questions, or just say hi :wave:.
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/8L18lNwzrGDExWOtNV/giphy.gif?cid=ecf05e478y1khbsa2rj1r1j5tiyofs3tihwf7813gt52gs2s&rid=giphy.gif" />
+<img align="right" width="360" height="240" alt="GIF" src="https://media3.giphy.com/media/8L18lNwzrGDExWOtNV/giphy.gif?cid=ecf05e478y1khbsa2rj1r1j5tiyofs3tihwf7813gt52gs2s&rid=giphy.gif" />
 
 - 👨‍💻 I’m currently working on my new website
   - When ready for consumption I will link here TBD
