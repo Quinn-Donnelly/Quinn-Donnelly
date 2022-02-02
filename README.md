@@ -7,6 +7,6 @@ My name is Quintin Donnelly, I drink coffee while solving problems. Yup that sum
 - 🌱 I’m currently learning visualizations in python
   - _sankey plots are 🔥_
 - 📫 How to reach me: [quinndonnelly22@gmail.com](mailto:quinndonnelly22@gmail.com)
-  - Still working on the whole socail media accounts side of things might create some eventually
+  - Still working on the whole social media accounts side of things might create some eventually
 
 ![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=Quinn-Donnelly&show_icons=true&hide_border=true)
