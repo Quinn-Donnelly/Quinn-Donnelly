@@ -1,12 +1,6 @@
 My name is Quintin Donnelly, I drink coffee while solving problems. Yup that sums up everything I do quite nicely. Feel free to reach out to me to connect, ask questions, or just say hi :wave:.
 
-<img align="right" width="360" height="240" alt="GIF" src="https://media3.giphy.com/media/8L18lNwzrGDExWOtNV/giphy.gif?cid=ecf05e478y1khbsa2rj1r1j5tiyofs3tihwf7813gt52gs2s&rid=giphy.gif" />
-
-- 👨‍💻 I’m currently working on my new website
-  - When ready for consumption I will link here TBD
-- 🌱 I’m currently learning visualizations in python
-  - _sankey plots are 🔥_
+- 🌱 I’m currently reworking my development workflow
+  - _tmux with a little custom scripting is 🔥_
 - 📫 How to reach me: [quinndonnelly22@gmail.com](mailto:quinndonnelly22@gmail.com)
-  - Still working on the whole social media accounts side of things might create some eventually
-
-![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=Quinn-Donnelly&show_icons=true&hide_border=true)
+  - Still working on the whole social media accounts side of things might create some eventually _don't hold your breath Github is the only socail media I use_
