@@ -5,7 +5,7 @@ My name is Quintin Donnelly, I drink coffee while solving problems. Yup that sum
 - 📫 How to reach me: [quinndonnelly22@gmail.com](mailto:quinndonnelly22@gmail.com)
   - Still working on the whole social media accounts side of things might create some eventually _don't hold your breath Github is the only socail media I use_
 
-> [!NOTE]
+> [!NOTE]-
 > Generally callouts should be short.
 >
 > But occasionally may require more than one paragraph
